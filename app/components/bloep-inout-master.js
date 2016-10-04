@@ -1,0 +1,1 @@
+export { default } from 'mdb-input-master/components/bloep-inout-master';
