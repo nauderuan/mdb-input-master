@@ -5,7 +5,7 @@ export default Ember.Component.extend({
   layout,
 
 
-  sVersion: "This is VVV ONe",
+  sVersion: "This is VVV TWO!!!!!!",
 
 
   init: function() {
